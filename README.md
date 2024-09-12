@@ -17,8 +17,6 @@ Here are some of the tools I work with:
 
 ![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman)
 
-[![My Skills](https://skillicons.dev/icons?i=idea)](https://google.com)
-
 
 ## 🌱 Currently learning:
 - Improving my knowledge of cloud services (AWS, Google Cloud)
