@@ -22,5 +22,5 @@ Here are some of the tools I work with:
 - Improving my knowledge of cloud services (AWS, Google Cloud)
 
 ## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/mauro-alejandro-morales-293b38270/)
+- LinkedIn: (https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/mauro-alejandro-morales-293b38270/)
 - Email: mauroale2501@gmail.com
