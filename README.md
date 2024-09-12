@@ -8,10 +8,10 @@ I'm passionate about coding and learning new technologies.
 
 ## 🛠 Tech Stack:
 Here are some of the tools I work with:
-[!(https://skillicons.dev/icons?i=git,js,ts,react,nextjs,html,css,materialui,jest,vite)](https://skillicons.dev)
-[!(https://skillicons.dev/icons?i=java,nodejs,maven)](https://skillicons.dev)
-[!(https://skillicons.dev/icons?i=docker,postgres,azure,netlify,vercel)](https://skillicons.dev)
-[!(https://skillicons.dev/icons?i=idea,vscode,postman)](https://skillicons.dev)
+[!(https://skillicons.dev/icons?i=git,js,ts,react,nextjs,html,css,materialui,jest,vite)]
+[!(https://skillicons.dev/icons?i=java,nodejs,maven)]
+[!(https://skillicons.dev/icons?i=docker,postgres,azure,netlify,vercel)]
+[!(https://skillicons.dev/icons?i=idea,vscode,postman)]
 
 ## 🌱 Currently learning:
 - Improving my knowledge of cloud services (AWS, Google Cloud)
