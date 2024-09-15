@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Mauro
+# Hi there! 👋 I'm Mauro!
 
-I'm a Full Stack Developer from Argentina, currently living in Sweden 🇸🇪. 
+I'm a Full Stack Developer from Argentina 🇦🇷, currently living in Sweden 🇸🇪. 
 I'm passionate about coding and learning new technologies.
 
 ## 👨‍💻 Currently working at:
