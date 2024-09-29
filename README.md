@@ -4,7 +4,7 @@ I'm a Full Stack Developer from Argentina 🇦🇷, currently living in Sweden �
 I'm passionate about coding and learning new technologies.
 
 ## 👨‍💻 Currently working at:
-**</salt>** - As a Full Stack Developer.
+**Salt** - As a Full Stack Developer.
 
 ## 🛠 Tech Stack:
 Here are some of the tools I work with:
