@@ -13,7 +13,7 @@ Here are some of the tools I work with:
 
 ![My Skills](https://skillicons.dev/icons?i=java,nodejs,maven)
 
-![My Skills](https://skillicons.dev/icons?i=docker,postgres,azure,netlify,vercel)
+![My Skills](https://skillicons.dev/icons?i=docker,postgres,gcp,azure,netlify,vercel)
 
 ![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman)
 
