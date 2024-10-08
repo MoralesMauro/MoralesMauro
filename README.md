@@ -9,9 +9,9 @@ I'm passionate about coding and learning new technologies.
 ## 🛠 Tech Stack:
 Here are some of the tools I work with:
 
-![My Skills](https://skillicons.dev/icons?i=git,js,ts,react,nextjs,html,css,materialui,jest,vite)
-
 ![My Skills](https://skillicons.dev/icons?i=java,nodejs,maven)
+
+![My Skills](https://skillicons.dev/icons?i=git,js,ts,react,nextjs,html,css,materialui,jest,vite)
 
 ![My Skills](https://skillicons.dev/icons?i=docker,postgres,gcp,azure,netlify,vercel)
 
