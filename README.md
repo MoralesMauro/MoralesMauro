@@ -6,7 +6,7 @@ I'm passionate about coding and learning new technologies.
 ## 👨‍💻 Currently working at:
 **Salt** - As a Full Stack Developer.
 
-## 🛠 Tech Stack:
+## 🛠 Tech Stack: 
 Here are some of the tools I work with:
 
 ![My Skills](https://skillicons.dev/icons?i=java,nodejs,maven)
