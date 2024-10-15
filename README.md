@@ -23,4 +23,4 @@ Here are some of the tools I work with:
 
 ## 📫 How to reach me: 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:mauroale2501@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauro-alejandro-morales-293b38270/) 
+   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauro-alejandro-morales-293b38270/) 
